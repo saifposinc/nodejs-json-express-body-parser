@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-json-express-body-parser",
+  "version": "1.0.0",
+  "description": "json with Express and body-parser, Input validation with Express & JOI. The folder 'static' in the root directory contains index.html.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saif",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "joi": "^17.2.1"
+  }
+}
